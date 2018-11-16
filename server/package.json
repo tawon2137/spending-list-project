@@ -1,0 +1,11 @@
+{
+  "name": "resolution-server",
+  "version": "1.0.0",
+  "description": "resolution server project directory",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
