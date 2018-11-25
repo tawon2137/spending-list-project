@@ -4,8 +4,6 @@
 import '@/assets/scss/index.scss'
 
 
-
-
 /**
  * vue imports
  */

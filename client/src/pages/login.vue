@@ -1,7 +1,6 @@
 <template>
   <form class="login-form" onsubmit="return false">
-    <h3>BYHEYDEY Spending List Storage</h3>
-    <button>Login With Google</button>
+    <a class="login-button">Login with Google</a>
   </form>
 </template>
 
